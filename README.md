@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kamal-Raj1
 - 👀 I’m interested in signal processing and machine learning.
-- 🌱 I’m currently learning deep learning and SystemVerilog.
 - 💞️ I’m looking to collaborate on projects and make connections.
 - 📫 How to reach me: Email me at bt22ece059@iiitn.ac.in.
 
